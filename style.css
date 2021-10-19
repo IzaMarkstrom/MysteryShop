@@ -1,0 +1,108 @@
+body {
+    background-color: #0f0f11;
+}
+
+header {
+    background: linear-gradient(#C3073F, #950740);
+    padding: 10px;
+    margin-right: 4%;
+    margin-left: 4%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-shadow: 2px 1px #111;
+}
+
+#input {
+    margin-left: 5%;
+}
+
+/* #total {
+    padding-top: 35%;
+} */
+
+h1 {
+    color: rgb(231, 231, 231);
+    text-align: center;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+h1:hover {
+    letter-spacing: 3px;
+}
+
+p {
+    font-family: 'Lucida Grande', sans-serif;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-family: 'Lucida Grande', sans-serif;
+    text-align: center;
+}
+
+li {
+    color: white;
+}
+
+button {
+    background-color: #950740;
+    color: white;
+    letter-spacing: 0px;
+    transition: 0.5s;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+a {
+    background-color: #950740;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 0px;
+    transition: 0.5s;
+    border-radius: 5px;
+    border-style: black;
+    padding: 4px;
+    border-style: double;
+    text-shadow: 1px 1px #111;
+}
+
+button:hover {
+    letter-spacing: 0.5px;
+}
+
+#yourCart {
+    background: linear-gradient(#76767a, #2b2b2c);
+    border-radius: 5px;
+    position: fixed;
+    float: left;
+    left: 70%;
+    height: 190px;
+    border-style: solid;
+    padding: 2%;
+    overflow-y: auto;
+}
+
+#emptyCart {
+    top: 60%;
+}
+
+#container {
+    margin-top: 2em;
+    margin-left: 5%;
+    position: relative;
+    width: 50%;
+}
+
+#containerFiltered {
+    margin-top: 2em;
+    margin-left: 5%;
+    position: relative;
+    width: 50%;   
+}
+
+img {
+    width: 80%;
+}
