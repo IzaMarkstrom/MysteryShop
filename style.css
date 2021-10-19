@@ -16,10 +16,6 @@ header {
     margin-left: 5%;
 }
 
-/* #total {
-    padding-top: 35%;
-} */
-
 h1 {
     color: rgb(231, 231, 231);
     text-align: center;
@@ -94,13 +90,6 @@ button:hover {
     margin-left: 5%;
     position: relative;
     width: 50%;
-}
-
-#containerFiltered {
-    margin-top: 2em;
-    margin-left: 5%;
-    position: relative;
-    width: 50%;   
 }
 
 img {
